@@ -1,7 +1,7 @@
 Package: intervalr
 Type: Package
 Title: Work with date interval data in R
-Version: 0.1.0
+Version: 0.1.0.9000
 Author: Mikko Marttila
 Maintainer: Mikko Marttila <mikko@mikkomarttila.com>
 Description: More about what it does (maybe more than one line)
