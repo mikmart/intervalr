@@ -1,11 +1,11 @@
 Package: intervalr
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Work with date interval data in R
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
+Author: Mikko Marttila
+Maintainer: Mikko Marttila <mikko@mikkomarttila.com>
 Description: More about what it does (maybe more than one line)
-License: What license is it under?
+License: GPLv3
 LazyData: TRUE
 Imports:
   data.table,
