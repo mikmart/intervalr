@@ -5,6 +5,8 @@ Version: 0.1.0.9000
 Author: Mikko Marttila
 Maintainer: Mikko Marttila <mikko@mikkomarttila.com>
 Description: More about what it does (maybe more than one line)
+URL: https://github.com/mikmart/intervalr
+BugReports: https://github.com/mikmart/intervalr/issues
 License: GPLv3
 LazyData: TRUE
 Imports:
